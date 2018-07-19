@@ -30,6 +30,6 @@ do {
 } while (maybeTrue());
 
 ///ToDo test
-function doWhileLoop() {
+function doWhileLoop(array) {
 
 }
