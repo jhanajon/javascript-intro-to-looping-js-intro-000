@@ -31,11 +31,10 @@ do {
 while (maybeTrue());
 
 ///ToDo test
-function doWhileLoop(array) {
-  return array.length > 0 && maybeTrue() {
-    do {
-      // console.log(`'hey what's wrong'`)
-    array.pop()
-    }
-  }
-} while (doWhileLoop())
+// function doWhileLoop(array) {
+//   return array.length > 0 && maybeTrue() {
+//     do {
+//     array.pop()
+//     }
+//   }
+// } while (doWhileLoop())
