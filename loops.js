@@ -31,7 +31,6 @@ do {
 
 ///ToDo test
 function doWhileLoop(array) {
-  ///sample
   ///array.length > 0 && maybeTrue()
   return array.length > 0 && maybeTrue() {
     do {
