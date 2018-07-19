@@ -21,11 +21,15 @@ function whileLoop(n) {
 return 'done'
 }
 
+////copied maybeTrue
 function maybeTrue() {
   return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
 }
+do {
+  console.log('')
+} while (maybeTrue());
 
-
+///ToDo test
 function doWhileLoop() {
-  
+
 }
