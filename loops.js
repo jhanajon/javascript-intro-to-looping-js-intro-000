@@ -39,4 +39,4 @@ function doWhileLoop(array) {
     // array.pop()
     }
   }
-} while (doWhileLoop())
+} while (maybeTrue())
