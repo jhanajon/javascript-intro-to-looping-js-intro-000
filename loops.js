@@ -37,6 +37,6 @@ function doWhileLoop(array) {
     do {
     array.pop()
     }
-      
+
   }
-} while (doWhileLoop)
+} while (doWhileLoop(array))
