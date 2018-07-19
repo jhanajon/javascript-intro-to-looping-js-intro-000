@@ -15,7 +15,7 @@ array.push(`"I am ${i} strange loops."`);
    }
 
 function whileLoop(n) {
-  var i = 0; i <25; i++)
+  var i = 0; i < 25; i--)
   while (i > 0) {
   console.log('done')
 }
