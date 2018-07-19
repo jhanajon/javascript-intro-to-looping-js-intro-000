@@ -32,7 +32,7 @@ do {
 ///ToDo test
 function doWhileLoop(array) {
   ///array.length > 0 && maybeTrue()
-  return array.length > 0 && maybeTrue() {
+  return array.length > 0 || maybeTrue() {
     do {
     array.pop()
     }
