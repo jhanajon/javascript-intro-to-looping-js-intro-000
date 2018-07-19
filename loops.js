@@ -27,15 +27,15 @@ function maybeTrue() {
 }
 do {
   console.log('')
-} while (maybeTrue());
+} 
+while (maybeTrue());
 
 ///ToDo test
 function doWhileLoop(array) {
   ///array.length > 0 && maybeTrue()
-  return array.length > 0 || maybeTrue() {
+  return array.length > 0 && maybeTrue() {
     do {
     array.pop()
     }
-
   }
 } while (doWhileLoop())
