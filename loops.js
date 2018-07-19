@@ -32,7 +32,7 @@ while (maybeTrue());
 
 ///ToDo test
 function doWhileLoop(array) {
-  return array.length > 0 || maybeTrue() {
+  return array.length > 0 && maybeTrue() {
     do {
       // console.log(`'hey what's wrong'`)
     array.pop()
