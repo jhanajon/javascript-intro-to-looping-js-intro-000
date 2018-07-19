@@ -27,7 +27,7 @@ function maybeTrue() {
 }
 do {
   console.log('')
-} 
+}
 while (maybeTrue());
 
 ///ToDo test
