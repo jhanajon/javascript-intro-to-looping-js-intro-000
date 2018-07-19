@@ -35,7 +35,8 @@ function doWhileLoop(array) {
   ///array.length > 0 && maybeTrue()
   return array.length > 0 && maybeTrue() {
     do {
-    array.pop()
+      console.log(`'hey what's wrong'`)
+    // array.pop()
     }
   }
 } while (doWhileLoop())
