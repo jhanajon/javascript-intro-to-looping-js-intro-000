@@ -39,4 +39,4 @@ function doWhileLoop(array) {
     }
 
   }
-} while (doWhileLoop(array))
+} while (doWhileLoop())
